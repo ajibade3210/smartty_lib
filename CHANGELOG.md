@@ -1,5 +1,11 @@
 # smartty-lib
 
+## 1.4.0
+
+### Minor Changes
+
+- 0d7990b: Add digx
+
 ## 1.3.0
 
 ### Minor Changes
