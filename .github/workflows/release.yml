@@ -20,6 +20,8 @@ jobs:
         with:
           node-version: 18
       - run: npm i
+      - name: Run tests
+        run: npm test
       - name: Publish to npm
         id: changesets
         uses: changesets/action@v1
