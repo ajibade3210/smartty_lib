@@ -1,5 +1,11 @@
 # smartty-lib
 
+## 1.5.1
+
+### Patch Changes
+
+- 1ff6885: new update
+
 ## 1.5.0
 
 ### Minor Changes
