@@ -1,5 +1,5 @@
-export * from "./dig";
-export * from "./isConsonant";
-export * from "./isEven";
-export * from "./isOdd";
-export * from "./isVowels";
+export { dig } from "./dig";
+export { isConsonant } from "./isConsonant";
+export { isEven } from "./isEven";
+export { isOdd } from "./isOdd";
+export { isVowel } from "./isVowel";
