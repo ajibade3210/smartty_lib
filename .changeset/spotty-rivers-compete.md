@@ -1,5 +1,5 @@
 ---
-"@d_first/smartty-lib": patch
+"smartty-lib": patch
 ---
 
 initial fix
