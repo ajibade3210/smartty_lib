@@ -1,5 +1,11 @@
 # smartty-lib
 
+## 1.2.1
+
+### Patch Changes
+
+- 4b57e12: make chageset public
+
 ## 1.2.0
 
 ### Minor Changes
