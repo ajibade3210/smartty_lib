@@ -3,8 +3,8 @@
  * @param {string} character
  * @returns {boolean}
  * @example
- * isOdd(1) // true
- * isOdd(2) // false
+ * isConsonant(x) // true
+ * isConsonant(a) // false
  * */
 
 export const isConsonant = (character: string): boolean => {

@@ -3,8 +3,8 @@
  * @param {string} character
  * @returns {boolean}
  * @example
- * isOdd(1) // true
- * isOdd(2) // false
+ * isVowel(a) // true
+ * isVowel(c) // false
  * */
 
 export const isVowel = (character: string) => {
