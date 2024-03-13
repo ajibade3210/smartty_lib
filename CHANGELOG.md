@@ -1,5 +1,11 @@
 # smartty-lib
 
+## 1.5.0
+
+### Minor Changes
+
+- 0259e39: update export config
+
 ## 1.4.1
 
 ### Patch Changes
