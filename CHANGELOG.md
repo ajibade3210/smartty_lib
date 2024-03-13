@@ -1,5 +1,11 @@
 # smartty-lib
 
+## 1.1.1
+
+### Patch Changes
+
+- e23626b: new config
+
 ## 1.1.0
 
 ### Minor Changes
