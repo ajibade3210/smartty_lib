@@ -1,5 +1,11 @@
 # smartty-lib
 
+## 1.2.0
+
+### Minor Changes
+
+- edd83af: add even func
+
 ## 1.1.1
 
 ### Patch Changes
