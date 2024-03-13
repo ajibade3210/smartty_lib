@@ -27,8 +27,6 @@ export const isConsonant = (character: string): boolean => {
   return !"aeiou".includes(char);
 };
 
-export default dig;
-
 /**
  * A dig function that takes any object with a nested structure and a path,
  * and returns the value under that path or undefined when no value is found.
@@ -38,7 +36,11 @@ export default dig;
  * @param {boolean} [shouldThrow=false] - Optionally throw an exception when nothing found
  *
  */
-function dig(source: any, path: string, shouldThrow: boolean = false) {
+export const dig = (
+  source: any,
+  path: string,
+  shouldThrow: boolean = false
+) => {
   if (source === null || source === undefined) {
     return undefined;
   }
@@ -72,7 +74,7 @@ function dig(source: any, path: string, shouldThrow: boolean = false) {
       }
     }
   }, source);
-}
+};
 
 const ALL_DIGITS_REGEX = /^\d+$/;
 
