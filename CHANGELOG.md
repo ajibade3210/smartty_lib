@@ -1,5 +1,11 @@
 # smartty-lib
 
+## 1.4.1
+
+### Patch Changes
+
+- 1a258fe: fix
+
 ## 1.4.0
 
 ### Minor Changes
