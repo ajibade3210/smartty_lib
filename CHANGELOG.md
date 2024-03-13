@@ -1,5 +1,11 @@
 # smartty-lib
 
+## 1.3.0
+
+### Minor Changes
+
+- 86c7c80: add vowel and consonant checkers
+
 ## 1.2.1
 
 ### Patch Changes
