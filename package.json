@@ -1,0 +1,25 @@
+{
+  "name": "smartty-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts",
+    "release": "npm run build && changeset publish"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.27.1"
+  }
+}
