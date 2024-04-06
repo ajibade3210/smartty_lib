@@ -1,7 +1,7 @@
 {
   "name": "smartty-lib",
   "version": "1.6.0",
-  "description": "",
+  "description": "SMartty Lib is a demonstration practice application designed to showcase how to create an NPM package. It serves as a versatile library for practicing various checks, including identifying even numbers, odd numbers, consonants, and vowels.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -13,7 +13,13 @@
     "release": "npm run build && changeset publish",
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": [
+    "check",
+    "vowel",
+    "consonant",
+    "odd",
+    "even"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
