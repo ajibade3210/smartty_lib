@@ -1,4 +1,3 @@
-export { dig } from "./dig";
 export { isConsonant } from "./isConsonant";
 export { isEven } from "./isEven";
 export { isOdd } from "./isOdd";

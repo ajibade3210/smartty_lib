@@ -1,5 +1,6 @@
 /**
  * @description
+ * checks if argument recieved is an odd number
  * @param {number} n
  * @returns {boolean}
  * @example
@@ -7,4 +8,4 @@
  * isOdd(2) // false
  * */
 
-export const isOdd = (n: number) => n % 2 === 1;
+export const isOdd = (n: number): boolean => n % 2 === 1;

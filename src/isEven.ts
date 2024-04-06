@@ -1,5 +1,6 @@
 /**
  * @description
+ * checks if argument recieved is an even number
  * @param {number} n
  * @returns {boolean}
  * @example
@@ -7,4 +8,4 @@
  * isEven(2) // true
  * */
 
-export const isEven = (n: number) => n % 2 === 0;
+export const isEven = (n: number): boolean => n % 2 === 0;
