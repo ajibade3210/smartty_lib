@@ -1,5 +1,11 @@
 # smartty-lib
 
+## 1.6.1
+
+### Patch Changes
+
+- 2607796: package update
+
 ## 1.6.0
 
 ### Minor Changes
