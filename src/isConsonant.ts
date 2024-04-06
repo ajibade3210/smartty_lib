@@ -1,5 +1,6 @@
 /**
  * @description
+ * checks if argument recieved is a consonant character
  * @param {string} character
  * @returns {boolean}
  * @example

@@ -1,5 +1,6 @@
 /**
  * @description
+ * checks if argument recieved is a vowel character
  * @param {string} character
  * @returns {boolean}
  * @example
@@ -7,7 +8,7 @@
  * isVowel(c) // false
  * */
 
-export const isVowel = (character: string) => {
+export const isVowel = (character: string): boolean => {
   // Convert the character to lowercase to handle both uppercase and lowercase consonants
   var char = character.toLowerCase();
   // Check if the character is not a vowel
