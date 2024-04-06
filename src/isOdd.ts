@@ -1,5 +1,4 @@
 /**
- * @description
  * checks if argument recieved is an odd number
  * @param {number} n
  * @returns {boolean}

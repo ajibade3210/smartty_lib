@@ -1,5 +1,4 @@
 /**
- * @description
  * checks if argument recieved is a vowel character
  * @param {string} character
  * @returns {boolean}
