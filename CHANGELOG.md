@@ -1,5 +1,11 @@
 # smartty-lib
 
+## 1.6.3
+
+### Patch Changes
+
+- d020f4c: update
+
 ## 1.6.2
 
 ### Patch Changes
