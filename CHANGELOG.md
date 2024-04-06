@@ -1,5 +1,11 @@
 # smartty-lib
 
+## 1.6.2
+
+### Patch Changes
+
+- 981d5c2: Add Git Repo To NPM Documentation
+
 ## 1.6.1
 
 ### Patch Changes
