@@ -1,5 +1,11 @@
 # smartty-lib
 
+## 1.6.0
+
+### Minor Changes
+
+- 638f452: Adding Test To Codebase and Code Documentation
+
 ## 1.5.2
 
 ### Patch Changes
